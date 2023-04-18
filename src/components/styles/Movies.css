@@ -3,10 +3,7 @@
     margin: 0;
     box-sizing: border-box;
 }
-.loader{
-    margin: 2rem 100%;
-    width: 20rem;
-}
+
 .logo{
     width: 100%;
     max-width: 45rem;
