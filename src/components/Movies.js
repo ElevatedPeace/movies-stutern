@@ -37,7 +37,7 @@ export default function Movies() {
               <h2>{movie.title}</h2>
           <p>{movie.release_date}</p>
           <p>{movie.opening_crawl.substring(0,260)}...</p>
-          <div className="link"> <a href="#"> More Info </a> </div>
+          <div className="link"> <a href="google.com"> More Info </a> </div>
           </div>
             </div>
           )
