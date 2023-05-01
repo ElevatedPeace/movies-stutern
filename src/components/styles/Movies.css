@@ -23,7 +23,7 @@
 }
 
 .post-card{
-    background-image: url("movies\src\components\images\first image.jpg");
+    background-image: url("../images/first\ image.jpg");
     background-repeat: repeat;
   background-size: 300px 100px;
     margin:1rem 10%;
